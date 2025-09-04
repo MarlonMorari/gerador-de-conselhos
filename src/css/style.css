@@ -39,7 +39,8 @@ main {
     height: 60px;
     border-radius: 50%;
     border: none;
-    transform: translateY(110%);
+    position: absolute;
+    bottom: 250px;
 }
 .corpo .advice-button:hover {
     color: #53FFAB;
